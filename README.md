@@ -20,7 +20,7 @@ Cela permet d'avoir des informatiosn détaillés sur le deploiement
 vercel inspect <deployement-url>
 
 10:
-les variables d'environements sont des variables dynamiques qui servent à communiquer netre les programmes
+les variables d'environements sont des variables dynamiques qui servent à communiquer entre les programmes
 
 11: 
 vercel env add
