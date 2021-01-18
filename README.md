@@ -52,4 +52,5 @@ les pull request permettent une collaboration plus facile au sein du projet avec
 On fais la phase Develpment avec chacun de son coté puis on utilise la preview avant de pull request avant de merge sur le main ou master dans l'environnement production
 
 22:
-Les fonctions serverless sont des bouts de codes en backend pour faire des requette http avec des reponses
+Les fonctions serverless sont des morceau de codes en backend pour faire des requette http avec des reponses. Cela permet ee manager dynamiquement les ressources allouée (que celles necessaires)
+
