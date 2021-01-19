@@ -54,3 +54,6 @@ On fais la phase Develpment avec chacun de son coté puis on utilise la preview 
 22:
 Les fonctions serverless sont des morceau de codes en backend pour faire des requette http avec des reponses. Cela permet ee manager dynamiquement les ressources allouée (que celles necessaires)
 
+23:
+
+24:
